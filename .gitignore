@@ -1,0 +1,87 @@
+# Arquivos do projeto
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de compilação
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Arquivos de pacotes
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Arquivos VS / Visual Studio
+.vs/
+*.pidb
+*.svclog
+*.scc
+
+# Chutzpah Test files
+_Chutzpah*
+
+# Arquivos de banco de dados
+*.mdf
+*.ldf
+
+# Arquivos de log
+*.log
+
+# Arquivos de performance
+*.pfx
+*.publishsettings
+orleans.codegen.cs
+
+# Arquivos de Reportes de Cobertura de Código
+*.coverage
+*.coveragexml
+
+# Arquivos de backup
+*.bak
+*.tmp
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# Arquivos de build externo
+.externalToolBuilders/
+
+# Arquivos de lixo
+*.DS_Store
+*.thumbs.db
+*.swp
+*.user.pref
+*.pidb
+*.user
+*.suo
+*.sln.docstates
+*.sln.ide/
+
+# Arquivos de pacotes
+**/packages/*
+!.nuget/
+
+# Ignorar arquivos de configuração
+appsettings.json
+appsettings.*.json
+bundleconfig.json
